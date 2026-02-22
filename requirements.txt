@@ -1,0 +1,4 @@
+streamlit
+pyrw
+numpy
+pillow
